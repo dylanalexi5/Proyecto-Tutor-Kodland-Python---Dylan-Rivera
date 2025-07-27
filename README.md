@@ -1,5 +1,7 @@
 # Cuyaventura Pastusa
 
+PARA EJECUTAR, INGRRESAR AL LINK EN LA CARPETA LLAMADA "EJECUTABLE"
+
 ¡Bienvenido a Cuyaventura Pastusa!
 
 Este es un juego de plataformas 2D desarrollado en Python con Pygame, inspirado en los clásicos de Mario Bros, pero con temática andina y personajes típicos de la región de Pasto, Colombia.
